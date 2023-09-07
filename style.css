@@ -1,0 +1,28 @@
+body{
+   background-image: url(images/fundoseries.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+
+
+
+}
+h1{
+   color: aqua;
+   text-align: center;
+
+
+}
+p{
+   color: aqua;
+   
+}
+
+div{
+   text-align: center;
+
+}
+h6{
+text-align: center;
+color: aqua;
+
+}
